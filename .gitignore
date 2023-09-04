@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+
+# Add
+*.vs
+x64/
+ChatProgramClient/x64
+*.aps
+*.vcxproj.filters
+*.vcxproj.user
